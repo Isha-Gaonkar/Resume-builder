@@ -1,0 +1,44 @@
+/* App.css */
+
+.app {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 10px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(6, 225, 145, 0.1);
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  color: #000000;
+  text-underline-offset: auto;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+textarea,
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(70, 83, 79);
+}
